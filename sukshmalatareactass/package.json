@@ -1,0 +1,56 @@
+{
+  "name": "sukshmalatareactass",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@adobe/react-spectrum": "^3.7.0",
+    "@react-spectrum/combobox": "^3.0.0-alpha.0",
+    "@react-spectrum/tabs": "^3.0.0-alpha.3",
+    "@spectrum-css/button": "^3.0.0",
+    "@spectrum-css/page": "^3.0.0",
+    "@spectrum-css/vars": "^3.0.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.6.3",
+    "@zeit/next-css": "1.0.1",
+    "add": "^2.0.6",
+    "next": "latest",
+    "next-compose-plugins": "2.1.1",
+    "next-fonts": "0.17.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-multi-carousel": "^2.6.1",
+    "react-scripts": "4.0.1",
+    "react-visibility-sensor": "5.0.2",
+    "semantic-ui-css": "2.4.1",
+    "semantic-ui-react": "0.86.0",
+    "ua-parser-js": "0.7.19",
+    "url-loader": "1.1.2",
+    "web-vitals": "^0.2.4",
+    "yarn": "^1.22.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
