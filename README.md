@@ -35,3 +35,6 @@ Step 4: npm install
 Step 5: npm start
 
 Step 6: run in browser : http://localhost:3000
+
+
+Note: The implementation is just static page. No interactive functionalities are done.
